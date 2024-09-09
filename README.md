@@ -24,10 +24,11 @@
 
 #### Chapter7. 연산자
 - [donghyun - Chap7,8](https://cloudy-holly-961.notion.site/Chapter-7-8-5e96778487ac48c3b824ca9c45ee391d)
+- [Boryong - Chap7](https://www.notion.so/7-764753d12baa436791fcc3fdf3edd24f?pvs=4)
 
 #### Chapter8. 제어문
 - [donghyun - Chap7,8](https://cloudy-holly-961.notion.site/Chapter-7-8-5e96778487ac48c3b824ca9c45ee391d)
-
+- [Boryong - Chap8](https://www.notion.so/8-215508472b564702911af1e222af6da3?pvs=4)
 
 ## 2주차
 
