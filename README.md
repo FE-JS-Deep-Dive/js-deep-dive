@@ -30,6 +30,23 @@
 - [donghyun - Chap7,8](https://cloudy-holly-961.notion.site/Chapter-7-8-5e96778487ac48c3b824ca9c45ee391d)
 - [Boryong - Chap8](https://www.notion.so/8-215508472b564702911af1e222af6da3?pvs=4)
 
+#### Chapter9. 타입 변환과 단축 평가
+
+
+#### Chapter10. 객체 리터럴
+
+
+#### Chapter11. 원시 값과 객체의 비교
+
+
+#### Chapter12. 함수
+
+
+#### Chapter13. 스코프
+- [Boryong - Chap13](https://www.notion.so/13-91890b7245ea4f5bb638be7c9f81c21b?pvs=4)
+
+<br/>
+
 ## 2주차
 
 ## 3주차
