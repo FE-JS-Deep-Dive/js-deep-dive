@@ -31,7 +31,7 @@
 - [Boryong - Chap8](https://www.notion.so/8-215508472b564702911af1e222af6da3?pvs=4)
 
 #### Chapter9. 타입 변환과 단축 평가
-
+- [donghyun - Chap9](https://cloudy-holly-961.notion.site/Chapter-09-b0da7f2126e04e9781d014a61010df53?pvs=74)
 
 #### Chapter10. 객체 리터럴
 
