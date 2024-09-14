@@ -34,7 +34,7 @@
 - [donghyun - Chap9](https://cloudy-holly-961.notion.site/Chapter-09-b0da7f2126e04e9781d014a61010df53?pvs=74)
 
 #### Chapter10. 객체 리터럴
-
+- [donghyun - Chap10](https://cloudy-holly-961.notion.site/Chapter-10-101f8947b07d80c492f4e663b7b33230)
 
 #### Chapter11. 원시 값과 객체의 비교
 
