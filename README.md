@@ -37,7 +37,7 @@
 - [donghyun - Chap10](https://cloudy-holly-961.notion.site/Chapter-10-101f8947b07d80c492f4e663b7b33230)
 
 #### Chapter11. 원시 값과 객체의 비교
-
+- [donghyun - Chap11](https://cloudy-holly-961.notion.site/Chapter11-102f8947b07d80f88db6dd6009c0626b)
 
 #### Chapter12. 함수
 
