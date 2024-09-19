@@ -40,7 +40,7 @@
 - [donghyun - Chap11](https://cloudy-holly-961.notion.site/Chapter11-102f8947b07d80f88db6dd6009c0626b)
 
 #### Chapter12. 함수
-
+- [donghyun - Chap12](https://cloudy-holly-961.notion.site/Chapter-12-105f8947b07d808e8894f9f31e8d1fa4?pvs=74)
 
 #### Chapter13. 스코프
 - [Boryong - Chap13](https://www.notion.so/13-91890b7245ea4f5bb638be7c9f81c21b?pvs=4)
