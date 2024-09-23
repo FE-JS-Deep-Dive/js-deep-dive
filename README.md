@@ -12,9 +12,11 @@
 
 #### Chapter3. 자바스크립트 개발 환경과 실행 방법
 - [donghyun - Chap3,4](https://cloudy-holly-961.notion.site/Chapter-3-4-19485bb1693b4393bfa8f6c5a4f91c67)
+- [bomi - Chap3](https://github.com/kwonET/FEDeepDive?tab=readme-ov-file#chapter3-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EA%B3%BC-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95)
 
 #### Chapter4. 변수
 - [donghyun - Chap3,4](https://cloudy-holly-961.notion.site/Chapter-3-4-19485bb1693b4393bfa8f6c5a4f91c67)
+- [bomi - Chap4](https://github.com/kwonET/FEDeepDive?tab=readme-ov-file#chapter4-%EB%B3%80%EC%88%98)
 
 #### Chapter5. 표현식과 문
 - [donghyun - Chap5,6](https://cloudy-holly-961.notion.site/Chapter-5-6-a247155dbf1e40949a1a3a5ea7b8ac1b)
@@ -44,6 +46,7 @@
 
 #### Chapter13. 스코프
 - [Boryong - Chap13](https://www.notion.so/13-91890b7245ea4f5bb638be7c9f81c21b?pvs=4)
+- [bomi - Chap13](https://github.com/kwonET/FEDeepDive?tab=readme-ov-file#chapter13-%EC%8A%A4%EC%BD%94%ED%94%84)
 
 <br/>
 
