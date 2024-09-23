@@ -20,7 +20,8 @@
 
 #### Chapter5. 표현식과 문
 - [donghyun - Chap5,6](https://cloudy-holly-961.notion.site/Chapter-5-6-a247155dbf1e40949a1a3a5ea7b8ac1b)
-
+- [eunbi - Chap5](https://tungsten-walkover-3bb.notion.site/Chapter-05-10a1fad468cc8080a5d8dce6d03385f9?pvs=4)
+  
 #### Chapter6. 데이터 타입
 - [donghyun - Chap5,6](https://cloudy-holly-961.notion.site/Chapter-5-6-a247155dbf1e40949a1a3a5ea7b8ac1b)
 - [minsung - Chap6](https://blush-star-c24.notion.site/6-320420f383d84b0ea1b517d40ddf8fc4?pvs=4).
@@ -38,6 +39,7 @@
 
 #### Chapter10. 객체 리터럴
 - [donghyun - Chap10](https://cloudy-holly-961.notion.site/Chapter-10-101f8947b07d80c492f4e663b7b33230)
+- [eunbi - Chap10](https://tungsten-walkover-3bb.notion.site/Chapter-10-10a1fad468cc80e5980ff71c7b34251d?pvs=4)
 
 #### Chapter11. 원시 값과 객체의 비교
 - [donghyun - Chap11](https://cloudy-holly-961.notion.site/Chapter11-102f8947b07d80f88db6dd6009c0626b)
