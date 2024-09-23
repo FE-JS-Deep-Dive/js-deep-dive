@@ -23,6 +23,7 @@
 
 #### Chapter6. 데이터 타입
 - [donghyun - Chap5,6](https://cloudy-holly-961.notion.site/Chapter-5-6-a247155dbf1e40949a1a3a5ea7b8ac1b)
+- [minsung - Chap6](https://blush-star-c24.notion.site/6-320420f383d84b0ea1b517d40ddf8fc4?pvs=4).
 
 #### Chapter7. 연산자
 - [donghyun - Chap7,8](https://cloudy-holly-961.notion.site/Chapter-7-8-5e96778487ac48c3b824ca9c45ee391d)
@@ -40,6 +41,7 @@
 
 #### Chapter11. 원시 값과 객체의 비교
 - [donghyun - Chap11](https://cloudy-holly-961.notion.site/Chapter11-102f8947b07d80f88db6dd6009c0626b)
+- [minsung - Chap11](https://blush-star-c24.notion.site/11-109d60de1d3f80e2a2c0f1cf8421b684?pvs=4)
 
 #### Chapter12. 함수
 - [donghyun - Chap12](https://cloudy-holly-961.notion.site/Chapter-12-105f8947b07d808e8894f9f31e8d1fa4?pvs=74)
