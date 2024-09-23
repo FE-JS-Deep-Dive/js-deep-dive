@@ -28,11 +28,11 @@
 
 #### Chapter7. 연산자
 - [donghyun - Chap7,8](https://cloudy-holly-961.notion.site/Chapter-7-8-5e96778487ac48c3b824ca9c45ee391d)
-- [Boryong - Chap7](https://www.notion.so/7-764753d12baa436791fcc3fdf3edd24f?pvs=4)
+- [Boryong - Chap7](https://thin-brisket-ae4.notion.site/7-764753d12baa436791fcc3fdf3edd24f?pvs=4)
 
 #### Chapter8. 제어문
 - [donghyun - Chap7,8](https://cloudy-holly-961.notion.site/Chapter-7-8-5e96778487ac48c3b824ca9c45ee391d)
-- [Boryong - Chap8](https://www.notion.so/8-215508472b564702911af1e222af6da3?pvs=4)
+- [Boryong - Chap8](https://thin-brisket-ae4.notion.site/8-215508472b564702911af1e222af6da3?pvs=4)
 
 #### Chapter9. 타입 변환과 단축 평가
 - [donghyun - Chap9](https://cloudy-holly-961.notion.site/Chapter-09-b0da7f2126e04e9781d014a61010df53?pvs=74)
@@ -49,7 +49,7 @@
 - [donghyun - Chap12](https://cloudy-holly-961.notion.site/Chapter-12-105f8947b07d808e8894f9f31e8d1fa4?pvs=74)
 
 #### Chapter13. 스코프
-- [Boryong - Chap13](https://www.notion.so/13-91890b7245ea4f5bb638be7c9f81c21b?pvs=4)
+- [Boryong - Chap13](https://thin-brisket-ae4.notion.site/13-91890b7245ea4f5bb638be7c9f81c21b?pvs=4)
 - [bomi - Chap13](https://github.com/kwonET/FEDeepDive?tab=readme-ov-file#chapter13-%EC%8A%A4%EC%BD%94%ED%94%84)
 
 <br/>
