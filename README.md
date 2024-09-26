@@ -56,6 +56,9 @@
 
 ## 2주차
 
+#### Chapter18. 함수와 일급 객체
+- [Boryong - Chap18](https://thin-brisket-ae4.notion.site/18-10c1725a42fe8051af02dad4a5ed0494?pvs=4)
+
 ## 3주차
 
 ## 4주차
