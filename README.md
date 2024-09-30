@@ -55,6 +55,8 @@
 <br/>
 
 ## 2주차
+#### Chapter15. let, const 키워드와 블록 레벨 스코프
+- [eunbi - Chap15](https://tungsten-walkover-3bb.notion.site/Chapter-15-let-const-1111fad468cc801ea6f7c04200fb3cca?pvs=4)
 #### Chapter16. 프로퍼티 어트리뷰트
 - [Minsung - Chap16](https://blush-star-c24.notion.site/16-110d60de1d3f8015b19ac10a6fcc899b?pvs=4)
 #### Chapter18. 함수와 일급 객체
