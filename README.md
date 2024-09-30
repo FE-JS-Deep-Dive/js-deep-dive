@@ -55,8 +55,11 @@
 <br/>
 
 ## 2주차
+#### Chapter14. 전역 변수의 문제점
+- [donghyun - Chap14](https://cloudy-holly-961.notion.site/Chapter-14-10cf8947b07d808289efd3d5205b0225)
 #### Chapter15. let, const 키워드와 블록 레벨 스코프
 - [eunbi - Chap15](https://tungsten-walkover-3bb.notion.site/Chapter-15-let-const-1111fad468cc801ea6f7c04200fb3cca?pvs=4)
+- [donghyun - Chap15](https://cloudy-holly-961.notion.site/Chapter15-111f8947b07d8079b742e459a25bdbc8)
 #### Chapter16. 프로퍼티 어트리뷰트
 - [Minsung - Chap16](https://blush-star-c24.notion.site/16-110d60de1d3f8015b19ac10a6fcc899b?pvs=4)
 #### Chapter18. 함수와 일급 객체
