@@ -55,7 +55,8 @@
 <br/>
 
 ## 2주차
-
+#### Chapter16. 프로퍼티 어트리뷰트
+- [Minsung - Chap16](https://blush-star-c24.notion.site/16-110d60de1d3f8015b19ac10a6fcc899b?pvs=4)
 #### Chapter18. 함수와 일급 객체
 - [Boryong - Chap18](https://thin-brisket-ae4.notion.site/18-10c1725a42fe8051af02dad4a5ed0494?pvs=4)
 
