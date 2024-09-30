@@ -62,6 +62,8 @@
 - [donghyun - Chap15](https://cloudy-holly-961.notion.site/Chapter15-111f8947b07d8079b742e459a25bdbc8)
 #### Chapter16. 프로퍼티 어트리뷰트
 - [Minsung - Chap16](https://blush-star-c24.notion.site/16-110d60de1d3f8015b19ac10a6fcc899b?pvs=4)
+#### Chapter17. 생성자 함수에 의한 객체 생성
+- [Bomi - Chap17](https://github.com/kwonET/FEDeepDive?tab=readme-ov-file#chapter17-%EC%83%9D%EC%84%B1%EC%9E%90-%ED%95%A8%EC%88%98%EC%97%90-%EC%9D%98%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1)
 #### Chapter18. 함수와 일급 객체
 - [Boryong - Chap18](https://thin-brisket-ae4.notion.site/18-10c1725a42fe8051af02dad4a5ed0494?pvs=4)
 
