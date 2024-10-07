@@ -68,7 +68,8 @@
 - [Boryong - Chap18](https://thin-brisket-ae4.notion.site/18-10c1725a42fe8051af02dad4a5ed0494?pvs=4)
 
 ## 3주차
-
+#### Chapter21. 빌트인객체
+- [Minsung - Chap21](https://blush-star-c24.notion.site/21-117d60de1d3f80ab81bfde5a5338df1c?pvs=4)
 #### Chapter22. this
 - [Bomi - Chap22](https://github.com/kwonET/FEDeepDive?tab=readme-ov-file#chapter22-this)
 #### Chapter23. 실행 컨텍스트
