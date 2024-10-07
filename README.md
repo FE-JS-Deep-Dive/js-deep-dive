@@ -69,6 +69,8 @@
 
 ## 3주차
 
+#### Chapter22. this
+- [Bomi - Chap22](https://github.com/kwonET/FEDeepDive?tab=readme-ov-file#chapter22-this)
 #### Chapter23. 실행 컨텍스트
 - [Boryong - Chap23](https://thin-brisket-ae4.notion.site/23-1121725a42fe8082b0b3f039423e025e?pvs=4)
 
