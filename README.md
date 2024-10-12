@@ -67,6 +67,8 @@
 #### Chapter18. 함수와 일급 객체
 - [Boryong - Chap18](https://thin-brisket-ae4.notion.site/18-10c1725a42fe8051af02dad4a5ed0494?pvs=4)
 
+<br/>
+
 ## 3주차
 #### Chapter19. 프로토타입
 - [donghyun - Chap19](https://cloudy-holly-961.notion.site/Chapter19-114f8947b07d80ed89dedc107223ac39?pvs=74)
@@ -77,8 +79,14 @@
 #### Chapter23. 실행 컨텍스트
 - [Boryong - Chap23](https://thin-brisket-ae4.notion.site/23-1121725a42fe8082b0b3f039423e025e?pvs=4)
 
+<br/>
 
 ## 4주차
+#### Chapter28. Number
+- [Boryong - Chap28](https://thin-brisket-ae4.notion.site/28-Number-11d1725a42fe8041a0ddfe6928f768c4?pvs=4)
+
+
+<br/>
 
 ## 5주차
 
