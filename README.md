@@ -84,6 +84,8 @@
 <br/>
 
 ## 4주차
+#### Chapter26. ES6 함수의 추가 기능
+[Minsung - Chap26](https://blush-star-c24.notion.site/26-ES6-118d60de1d3f80268bdfc9f8ac7f3e4b?pvs=4)
 #### Chapter28. Number
 - [Boryong - Chap28](https://thin-brisket-ae4.notion.site/28-Number-11d1725a42fe8041a0ddfe6928f768c4?pvs=4)
 
