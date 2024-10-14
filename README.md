@@ -84,6 +84,8 @@
 <br/>
 
 ## 4주차
+#### Chapter24. 클로저
+- [donghyun - Chap24](https://cloudy-holly-961.notion.site/Chapter24-11af8947b07d801490fde607c51d0592)
 #### Chapter26. ES6 함수의 추가 기능
 - [Minsung - Chap26](https://blush-star-c24.notion.site/26-ES6-118d60de1d3f80268bdfc9f8ac7f3e4b?pvs=4)
 #### Chapter28. Number
