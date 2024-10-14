@@ -72,6 +72,8 @@
 ## 3주차
 #### Chapter19. 프로토타입
 - [donghyun - Chap19](https://cloudy-holly-961.notion.site/Chapter19-114f8947b07d80ed89dedc107223ac39?pvs=74)
+#### Chapter20. strict mode
+- [eunbi - Chap20](https://tungsten-walkover-3bb.notion.site/Chapter-20-strict-mode-11f1fad468cc802ba966c9b26646b742?pvs=4)
 #### Chapter21. 빌트인객체
 - [Minsung - Chap21](https://blush-star-c24.notion.site/21-117d60de1d3f80ab81bfde5a5338df1c?pvs=4)
 #### Chapter22. this
