@@ -96,6 +96,11 @@
 
 ## 5주차
 
+#### Chapter33. Symbol
+- [Boryong - Chap33](https://thin-brisket-ae4.notion.site/33-Symbol-1201725a42fe807f9bc0c90945b63b46?pvs=4)
+
+<br/>
+
 ## 6주차
 
 ## 7주차
