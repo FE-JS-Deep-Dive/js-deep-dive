@@ -97,6 +97,8 @@
 <br/>
 
 ## 5주차
+#### Chapter29. Math
+- [donghyun - Chap29](https://cloudy-holly-961.notion.site/Chatper-29-124f8947b07d802f93e9db4b52df142d)
 #### Chapter30. Date
 - [eunbi - Chap30](https://tungsten-walkover-3bb.notion.site/Chapter-30-Date-1261fad468cc80488a96ea137999ffdd?pvs=4)
 #### Chapter33. Symbol
