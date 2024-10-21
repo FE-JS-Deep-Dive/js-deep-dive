@@ -86,6 +86,8 @@
 ## 4주차
 #### Chapter24. 클로저
 - [donghyun - Chap24](https://cloudy-holly-961.notion.site/Chapter24-11af8947b07d801490fde607c51d0592)
+#### Chapter25. 클래스
+- [eunbi - Chap25](https://tungsten-walkover-3bb.notion.site/Chapter-25-1261fad468cc80aaa997c3e1347cf775?pvs=4)
 #### Chapter26. ES6 함수의 추가 기능
 - [Minsung - Chap26](https://blush-star-c24.notion.site/26-ES6-118d60de1d3f80268bdfc9f8ac7f3e4b?pvs=4)
 #### Chapter28. Number
@@ -95,7 +97,8 @@
 <br/>
 
 ## 5주차
-
+#### Chapter30. Date
+- [eunbi - Chap30](https://tungsten-walkover-3bb.notion.site/Chapter-30-Date-1261fad468cc80488a96ea137999ffdd?pvs=4)
 #### Chapter33. Symbol
 - [Boryong - Chap33](https://thin-brisket-ae4.notion.site/33-Symbol-1201725a42fe807f9bc0c90945b63b46?pvs=4)
 
