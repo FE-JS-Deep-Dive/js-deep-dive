@@ -93,7 +93,6 @@
 #### Chapter28. Number
 - [Boryong - Chap28](https://thin-brisket-ae4.notion.site/28-Number-11d1725a42fe8041a0ddfe6928f768c4?pvs=4)
 
-
 <br/>
 
 ## 5주차
@@ -101,12 +100,19 @@
 - [donghyun - Chap29](https://cloudy-holly-961.notion.site/Chatper-29-124f8947b07d802f93e9db4b52df142d)
 #### Chapter30. Date
 - [eunbi - Chap30](https://tungsten-walkover-3bb.notion.site/Chapter-30-Date-1261fad468cc80488a96ea137999ffdd?pvs=4)
-#### Chapter33. Symbol
-- [Boryong - Chap33](https://thin-brisket-ae4.notion.site/33-Symbol-1201725a42fe807f9bc0c90945b63b46?pvs=4)
 
 <br/>
 
 ## 6주차
+
+
+#### Chapter32. String
+- [Boryong - Chap32](https://thin-brisket-ae4.notion.site/32-String-1231725a42fe80f5a613e4b9b0b15436?pvs=4)
+
+#### Chapter33. Symbol
+- [Boryong - Chap33](https://thin-brisket-ae4.notion.site/33-Symbol-1201725a42fe807f9bc0c90945b63b46?pvs=4)
+
+<br/>
 
 ## 7주차
 
