@@ -104,7 +104,8 @@
 <br/>
 
 ## 6주차
-
+#### Chapter31. RegExp
+- [eunbi - Chap31](https://tungsten-walkover-3bb.notion.site/Chapter-31-RegExp-1341fad468cc8025991af380e248b01c?pvs=4)
 
 #### Chapter32. String
 - [Boryong - Chap32](https://thin-brisket-ae4.notion.site/32-String-1231725a42fe80f5a613e4b9b0b15436?pvs=4)
