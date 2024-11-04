@@ -116,6 +116,9 @@
 #### Chapter33. Symbol
 - [Boryong - Chap33](https://thin-brisket-ae4.notion.site/33-Symbol-1201725a42fe807f9bc0c90945b63b46?pvs=4)
 
+#### Chapter34. 이터러블
+- [Jisun - Chap34](https://www.notion.so/34-1344bdcc393e8014a36acb38c2b252bc?pvs=4)
+
 <br/>
 
 ## 7주차
