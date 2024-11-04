@@ -104,6 +104,9 @@
 <br/>
 
 ## 6주차
+#### Chapter27. 배열
+- [donghyun - Chap27](https://cloudy-holly-961.notion.site/Chapter-27-11df8947b07d80819de1cd2cf2ad8491?pvs=74)
+
 #### Chapter31. RegExp
 - [eunbi - Chap31](https://tungsten-walkover-3bb.notion.site/Chapter-31-RegExp-1341fad468cc8025991af380e248b01c?pvs=4)
 
