@@ -1,4 +1,4 @@
-# JS DEEP DIVE STUDY
+![image](https://github.com/user-attachments/assets/382b0028-8555-49fc-8b78-371d07477146)# JS DEEP DIVE STUDY
 [도서] <strong>모던 자바스크립트 Deep Dive</strong> 도서의 학습한 내용을 정리합니다. <br />
 매주 학습한 내용을 정리하고, 월요일 22:00 디스코드에서 발표 및 토의를 진행합니다.
 
@@ -125,6 +125,9 @@
 
 #### Chapter37. Set과 Map
 - [Boryong - Chap37](https://thin-brisket-ae4.notion.site/37-Set-Map-1361725a42fe801d988ce6f49729ee5f?pvs=4)
+
+### Chapter38. 브라우저의 렌더링 과정
+- [Jisun - Chap38](https://www.notion.so/38-13b4bdcc393e801fa6acf4cc91cc8f79?pvs=4)
 
 <br/>
 
