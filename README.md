@@ -126,7 +126,7 @@
 #### Chapter37. Set과 Map
 - [Boryong - Chap37](https://thin-brisket-ae4.notion.site/37-Set-Map-1361725a42fe801d988ce6f49729ee5f?pvs=4)
 
-### Chapter38. 브라우저의 렌더링 과정
+#### Chapter38. 브라우저의 렌더링 과정
 - [Jisun - Chap38](https://www.notion.so/38-13b4bdcc393e801fa6acf4cc91cc8f79?pvs=4)
 
 <br/>
