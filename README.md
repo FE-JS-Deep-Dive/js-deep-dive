@@ -136,6 +136,13 @@
 
 ## 8주차
 
+#### Chapter41. Timer
+- [Boryong - Chap41](https://thin-brisket-ae4.notion.site/41-Timer-13e1725a42fe8087b735efb268295e2f?pvs=4)
+
+
+
+<br/>
+
 ## 9주차
 
 ## 10주차
