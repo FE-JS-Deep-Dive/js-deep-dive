@@ -138,6 +138,8 @@
 <br/>
 
 ## 8주차
+#### Chapter39. DOM
+- [donghyun - Chap39](https://cloudy-holly-961.notion.site/Chapter39-141f8947b07d8096a24cc128c4cebd44)
 #### Chapter40. 이벤트
 - [eunbi - Chap40](https://tungsten-walkover-3bb.notion.site/Chapter-40-1421fad468cc809ab74bf9d4c2afb0d8?pvs=4)
 #### Chapter41. Timer
