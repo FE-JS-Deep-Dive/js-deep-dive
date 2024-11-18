@@ -126,6 +126,9 @@
 #### Chapter35. 스프레드 문법
 - [dongsuu - Chap35](https://cloudy-holly-961.notion.site/Chapter-35-13af8947b07d80918f97c5c300033a89)
 
+#### Chapter36. 디스트럭처링 할당
+- [eunbi - Chap36](https://tungsten-walkover-3bb.notion.site/Chapter-36-1421fad468cc80e5ad1ffbff94f54aa9?pvs=4)
+
 #### Chapter37. Set과 Map
 - [Boryong - Chap37](https://thin-brisket-ae4.notion.site/37-Set-Map-1361725a42fe801d988ce6f49729ee5f?pvs=4)
 
