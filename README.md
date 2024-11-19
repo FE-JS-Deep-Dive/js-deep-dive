@@ -144,6 +144,8 @@
 - [eunbi - Chap40](https://tungsten-walkover-3bb.notion.site/Chapter-40-1421fad468cc809ab74bf9d4c2afb0d8?pvs=4)
 #### Chapter41. Timer
 - [Boryong - Chap41](https://thin-brisket-ae4.notion.site/41-Timer-13e1725a42fe8087b735efb268295e2f?pvs=4)
+#### Chapter42. 비동기 프로그래밍
+- [Jisun - Chap42](https://www.notion.so/42-1424bdcc393e80728cfadc617c92bb5f?pvs=4)
 
 
 
