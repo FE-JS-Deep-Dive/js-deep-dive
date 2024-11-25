@@ -156,7 +156,8 @@
 #### Chapter43. Ajax
 - [Boryong - Chap43](https://thin-brisket-ae4.notion.site/43-Ajax-1451725a42fe8062bbd3ca8d853860c7?pvs=4)
 
-
+#### Chapter44. REST API
+- [Jisun - Chap44](https://www.notion.so/44-REST-API-1494bdcc393e8010a134e7f22cf64b61?pvs=4)
 
 
 <br/>
