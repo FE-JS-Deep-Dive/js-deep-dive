@@ -153,6 +153,9 @@
 <br/>
 
 ## 9주차
+#### Chapter40. 이벤트(2)
+- [eunbi - Chap40](https://tungsten-walkover-3bb.notion.site/Chapter-40-1421fad468cc809ab74bf9d4c2afb0d8?pvs=4)
+  
 #### Chapter43. Ajax
 - [Boryong - Chap43](https://thin-brisket-ae4.notion.site/43-Ajax-1451725a42fe8062bbd3ca8d853860c7?pvs=4)
 
