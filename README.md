@@ -162,10 +162,14 @@
 #### Chapter44. REST API
 - [Jisun - Chap44](https://www.notion.so/44-REST-API-1494bdcc393e8010a134e7f22cf64b61?pvs=4)
 
-
 <br/>
 
 ## 10주차
+
+#### Chapter47. 에러 처리
+- [Boryong - Chap47](https://thin-brisket-ae4.notion.site/47-14b1725a42fe805ea521dc6d8562ad3f?pvs=4)
+
+<br/>
 
 ## 11주차
 
