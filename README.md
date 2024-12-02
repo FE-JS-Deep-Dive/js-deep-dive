@@ -165,7 +165,9 @@
 <br/>
 
 ## 10주차
-
+#### Chapter46. 제너레이터와 async/await
+- [eunbi - Chap46](https://tungsten-walkover-3bb.notion.site/Chapter-46-async-await-1501fad468cc8073989df5a3036393c1?pvs=4)
+  
 #### Chapter47. 에러 처리
 - [Boryong - Chap47](https://thin-brisket-ae4.notion.site/47-14b1725a42fe805ea521dc6d8562ad3f?pvs=4)
 
