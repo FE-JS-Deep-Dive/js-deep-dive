@@ -168,6 +168,7 @@
 
 #### Chapter47. 에러 처리
 - [Boryong - Chap47](https://thin-brisket-ae4.notion.site/47-14b1725a42fe805ea521dc6d8562ad3f?pvs=4)
+- [Jisun - Chap48](https://www.notion.so/48-1504bdcc393e80f8a849da829fad83d5?pvs=4)
 
 <br/>
 
